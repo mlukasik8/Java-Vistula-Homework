@@ -1,2 +1,2 @@
-# Java-Vistula-Homework
-Praca domowa z Javy
+# vistula-java-programowanie
+
